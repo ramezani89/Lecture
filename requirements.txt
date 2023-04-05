@@ -4,4 +4,4 @@ pandas
 geopandas
 fiona
 gdal
-osgeo
+pip install osgeo
