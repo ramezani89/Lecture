@@ -1,1 +1,1 @@
-python -m pip install discretize
+wget -q -O algeria_administrative.shp http://bit.ly/2uh4s3g
