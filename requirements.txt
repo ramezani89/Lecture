@@ -3,4 +3,4 @@ matplotlib
 pandas
 geopandas
 fiona
-gdal>=3.4.1
+gdal=3.4.1
