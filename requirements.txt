@@ -3,4 +3,5 @@ matplotlib
 pandas
 geopandas
 fiona
-
+osgeo
+gdal
