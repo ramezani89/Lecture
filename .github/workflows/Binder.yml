@@ -13,7 +13,7 @@ jobs:
     - name: update jupyter dependencies with repo2docker
       uses: machine-learning-apps/repo2docker-action@0.2
       with:
-        IMAGE_NAME: "ramezani89repo2docker-test"
+        IMAGE_NAME: "ramezani89/repo2docker-test"
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
         BINDER_CACHE: true
